@@ -1,0 +1,24 @@
+﻿生成启动时间为 2016/12/28 19:49:52。
+     1>项目“D:\大学学习资料\大二第一学期\c++\大作业\老师代码\游戏代码\Solitaire\Solitaire\Solitaire.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\大学学习资料\大一第二学期\C语言\VS2012\VS2012安装\VC\bin\CL.exe /c /I"..\SDL2-2.0.3\include" /I"..\SDL2_image-2.0.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Solitaire.c SolitaireInterface.c SolitaireLogic.c
+         SolitaireLogic.c
+         SolitaireInterface.c
+     1>d:\大学学习资料\大二第一学期\c++\大作业\老师代码\游戏代码\solitaire\solitaire\solitaireinterface.c(431): warning C4101: “srcRect”: 未引用的局部变量
+         Solitaire.c
+     1>d:\大学学习资料\大二第一学期\c++\大作业\老师代码\游戏代码\solitaire\solitaire\solitaire.c(11): warning C4026: 使用形参表声明的函数
+         正在生成代码...
+       Link:
+         D:\大学学习资料\大一第二学期\C语言\VS2012\VS2012安装\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\大学学习资料\大二第一学期\c++\大作业\老师代码\游戏代码\Solitaire\Debug\Solitaire.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\大学学习资料\大二第一学期\c++\大作业\老师代码\游戏代码\Solitaire\Debug\Solitaire.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\大学学习资料\大二第一学期\c++\大作业\老师代码\游戏代码\Solitaire\Debug\Solitaire.lib" /MACHINE:X86 Debug\Solitaire.obj
+         Debug\SolitaireInterface.obj
+         Debug\SolitaireLogic.obj
+         "..\SDL2-2.0.3\lib\x86\SDL2.lib"
+         "..\SDL2-2.0.3\lib\x86\SDL2main.lib"
+         "..\SDL2_image-2.0.0\lib\x86\SDL2_image.lib"
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: 默认库“msvcrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+         Solitaire.vcxproj -> D:\大学学习资料\大二第一学期\c++\大作业\老师代码\游戏代码\Solitaire\Debug\Solitaire.exe
+     1>已完成生成项目“D:\大学学习资料\大二第一学期\c++\大作业\老师代码\游戏代码\Solitaire\Solitaire\Solitaire.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.07
